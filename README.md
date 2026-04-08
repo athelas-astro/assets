@@ -1,2 +1,4 @@
 # assets
-Repository for miscellaneous Athelas assets, such as logo code.
+This repo contains miscellanous public assets for Athelas.
+Contents:
+- ``/logo``: Latex for generating the logo.
